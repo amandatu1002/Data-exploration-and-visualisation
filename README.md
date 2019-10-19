@@ -1,5 +1,3 @@
-# Data Exploration and Visualisation
-
 # Data Exploration Project
 
 What you can discover:
