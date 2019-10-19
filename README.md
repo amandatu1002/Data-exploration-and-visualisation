@@ -1,17 +1,16 @@
 # Data Exploration and Visualisation
 
-Data Exploration Project
+# Data Exploration Project
 
 What you can discover:
 
-1.How demand changes over the year?
+1. How demand changes over the year?
+2. How price changes over the year? 
+3. Does the price rise on weekends?
+4. What do Airbnb users care about?
 
-2.How price changes over the year? Does the price rise on weekends?
 
-3.What do Airbnb users care about?
-
-
-Data Visualisation Project
+# Data Visualisation Project
 
 An Interactive Visualization Website for Airbnb in Melbourne. This application is designed for Airbnb hosts or someone interested in Airbnb hosting. 
 
